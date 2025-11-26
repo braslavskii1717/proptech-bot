@@ -11,9 +11,5 @@
       "src": "/api/webhook",
       "dest": "api/webhook.js"
     }
-  ],
-  "env": {
-    "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
-    "PERPLEXITY_API_KEY": "@perplexity_api_key"
-  }
+  ]
 }
